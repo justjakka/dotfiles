@@ -1,0 +1,2 @@
+#!/bin/bash
+swaylock --screenshots --clock --indicator --indicator-radius 100 --indicator-thickness 7 --effect-blur 20x10 --ring-color 76725b --key-hl-color fbdbb9 --line-color 00000000 --inside-color 00000088 -K  --inside-ver-color 76725b --ring-ver-color fbdbb9
